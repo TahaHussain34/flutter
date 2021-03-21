@@ -1,0 +1,48 @@
+.gr{
+    background-color: rgb(224, 218, 218);
+}
+table{
+    padding-left: 60%;
+}
+td{
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+#ice{
+    width: 100%;
+}
+#lo{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.bot{
+    background-color: #ebe7e8;
+    margin-top: -16px;
+}
+#yo{
+    margin-top: -100px;
+    padding-left: 70%;
+}
+#pa{
+    padding-top: 40px;
+    margin-left: 20px;
+}
+h2{
+    color:palevioletred;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(135, 207, 27);
+    color: white;
+}
+.ima{
+    width: 50px;
+    height: 40px;
+}
+#tab{
+    padding-left: 20px;
+}
+.end{
+    padding-left: 180px;
+}
